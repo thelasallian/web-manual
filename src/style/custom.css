@@ -1,0 +1,4 @@
+/* Fine-tune Starlight typography for the manual */
+:root {
+	--sl-content-width: 50rem;
+}
