@@ -69,7 +69,7 @@ This is a general list of formatting rules for all article types unless specifie
 
    
 
-8. **Authors.** List authors alphabetically by surname.List authors in the order they appear in the Google Doc. If an author is missing from the dropdown menu, they must be added to WordPress (see section [3.2.1](../managing-users-and-authors#321-adding-authors-for-articles)). The author of all editorial articles is **The LaSallian** (see also section [3.1.3](.#313-article-type-specific-formatting-rules-and-style)).  
+8. **Authors.** List authors in the order they appear in the Google Doc. If an author is missing from the dropdown menu, they must be added to WordPress (see section [3.2.1](../managing-users-and-authors#321-adding-authors-for-articles)). The author of all editorial articles is **The LaSallian**. For articles tagged with **Press Release** (under the **Advertisements** category), setting the author to **External Partners** is required (see also section [3.1.3](.#313-article-type-specific-formatting-rules-and-style)).  
      
 9. **Category**. Assign based on the writing section: **University**, **Menagerie**, **Sports**, or **Vanguard**. Use the **Opinion** category for both opinion and editorial articles.  
      
@@ -138,10 +138,11 @@ Some articles have additional formatting and style requirements that may also su
 
    
 
-8. **Press releases.** The category is **Advertisements**, the tag is **Press Release**, and the author is **External Partners.** Copy and paste the content exactly as it is, without modifications. For quality checking (QC):
-   - **No preview text:** There is no need for preview text / excerpt.
+8. **Press releases.** The category is **Advertisements**, the tag is **Press Release**, and the author is **External Partners** (required for all Press Release tagged articles). Copy and paste the content exactly as it is, without modifications. For quality checking (QC):
+   - **No preview text / No missing excerpt:** There is no need for preview text or an excerpt; an empty excerpt must not be flagged or treated as missing.
    - **External links are OK:** Retain external hyperlinks as provided by the partner.
    - **No formatted punctuation check:** You do not have to check or adjust formatted punctuation (e.g. curly vs straight quotes) or TLS stylebook adherence.
+   - **Author requirement:** If tagged with **Press Release**, the author MUST be set to **External Partners**.
    Place the inline image at the beginning of the article. Always add **PRESS RELEASE:** before the actual article title.  
      
 9. **From the Archives articles from pre-website print issues.** When an article that was previously not available on the website—often from past print issues—is uploaded, it should be categorized under its original section (please note that **Features** is now **Menagerie**). Additionally, tag the article as **From the Archives**. Retain the content and capitalization as-is to reflect the writing style and stylebook of the publication at that time. 
