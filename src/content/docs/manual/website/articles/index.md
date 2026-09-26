@@ -26,7 +26,7 @@ This section covers the general steps for creating a new post and uploading an a
 6. **Add the remaining article data.** In the right sidebar, assign the excerpt, category, tag, and author(s). Additionally, add the image caption, if applicable. Assign the category based on the writing section and the tag specified on the Notion card; add authors in the order they appear in Google Docs (see [3.1.2](.#312-general-formatting-rules-and-reminders) for complete requirements and special cases).  
    ![image](../../images/image9.png)  
      
-7. **Format the content and double-check for stylebook adherence.** Use H2 for subheadings, remove external hyperlinks, boldface “**The LaSallian**” mentions, and italicize Filipino words. **Important:** Thoroughly review sections [3.1.2](.#312-general-formatting-rules-and-reminders) for general rules and [3.1.3](.#313-article-type-specific-formatting-rules-and-style) to [3.1.4](.#314-headnotes-and-endnotes) for specific article types. Cross-check the content with the TLS Points of Style as well.  
+7. **Format the content and double-check for stylebook adherence.** Use H2 for subheadings, remove external hyperlinks (except for press releases), boldface “**The LaSallian**” mentions, and italicize Filipino words. **Important:** Thoroughly review sections [3.1.2](.#312-general-formatting-rules-and-reminders) for general rules and [3.1.3](.#313-article-type-specific-formatting-rules-and-style) to [3.1.4](.#314-headnotes-and-endnotes) for specific article types. Cross-check the content with the TLS Points of Style as well.  
      
 8. **Save or publish the article.** Click **Save Draft** to review later or **Publish** to make the article live. Use the **Preview** button to check for any errors before publishing.  
    ![image](../../images/image10.png)
@@ -55,7 +55,7 @@ This is a general list of formatting rules for all article types unless specifie
 
 5. Click **Update** to save the changes. Afterward, click **Preview** to verify.
 
-3. **Hyperlinks.** Retain hyperlinks pointing to other TLS articles or social media posts only. Remove all external links, as they are used only for reference during the drafting process.  
+3. **Hyperlinks.** Retain hyperlinks pointing to other TLS articles or social media posts only. Remove all external links, as they are used only for reference during the drafting process (except for press releases, where external links are allowed and should be retained).  
      
 4. **Mentions of The LaSallian.** Boldface the publication's name, **The LaSallian**, when mentioned in the article body.  
       
@@ -81,7 +81,7 @@ This is a general list of formatting rules for all article types unless specifie
 
     
 
-11. **Excerpt.** This is indicated as “preview text” in Notion. Most articles require an excerpt, except for press releases and sports recaps (e.g., UAAP, FilOil, etc.), include excerpts. As of Web 63, recap articles by the University (Straight News) and Menagerie (Writer’s Recap) sections include excerpts as well. 
+11. **Excerpt.** This is indicated as “preview text” in Notion. Most articles require an excerpt, except for press releases (no preview text needed) and sports recaps (e.g., UAAP, FilOil, etc.). As of Web 63, recap articles by the University (Straight News) and Menagerie (Writer’s Recap) sections include excerpts as well. 
 
 ### 3.1.3. Article Type-Specific Formatting Rules and Style
 
@@ -138,7 +138,11 @@ Some articles have additional formatting and style requirements that may also su
 
    
 
-8. **Press releases.** The category is **Advertisements**, the tag is **Press Release**, and the author is **External Partners.** Copy and paste the content exactly as it is, without modifications. Place the inline image at the beginning of the article. No excerpt. Always add **PRESS RELEASE:** before the actual article title.  
+8. **Press releases.** The category is **Advertisements**, the tag is **Press Release**, and the author is **External Partners.** Copy and paste the content exactly as it is, without modifications. For quality checking (QC):
+   - **No preview text:** There is no need for preview text / excerpt.
+   - **External links are OK:** Retain external hyperlinks as provided by the partner.
+   - **No formatted punctuation check:** You do not have to check or adjust formatted punctuation (e.g. curly vs straight quotes) or TLS stylebook adherence.
+   Place the inline image at the beginning of the article. Always add **PRESS RELEASE:** before the actual article title.  
      
 9. **From the Archives articles from pre-website print issues.** When an article that was previously not available on the website—often from past print issues—is uploaded, it should be categorized under its original section (please note that **Features** is now **Menagerie**). Additionally, tag the article as **From the Archives**. Retain the content and capitalization as-is to reflect the writing style and stylebook of the publication at that time. 
 
