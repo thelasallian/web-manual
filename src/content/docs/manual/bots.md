@@ -37,3 +37,11 @@ Once the chat is authorized, users are able to use the bot through **/bitly {som
 | Other | ![image](./images/image55.png) |
 
 A common problem you might find is the bot being unresponsive. It’s possible that the bot isn’t receiving your messages. If that is the case, either tag the bot in your commands (/bitly@BotName) or make the bot an admin. This is needed as bots by default can’t read text messages they aren’t tagged in.
+
+## 5.3. External & Production Bots Hosting
+
+With TLS operating on its own dedicated VPS infrastructure since TLS65, the publication's hosting scope expanded beyond Web section-exclusive tools to host and run automated bots and services across different sections and publication initiatives.
+
+A notable example is the **Coverage Tracker Bot (Nailong Bot)**, developed by TLS66 Managing Editor Virgil Noriega to assist the Editorial Board in tracking, scheduling, and monitoring coverage deliverables and attendance across sections.
+
+These bots run as containerized Docker services or managed background daemons on our server, ensuring high uptime and isolated dependencies.

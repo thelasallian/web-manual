@@ -44,7 +44,7 @@ The structure of a livetweet usually begins with a “HAPPENING NOW” kicker on
 
 ![image](../../images/image61.png)
 
-On other platforms, the link to the main tweet posted on X is included in the caption to redirect the viewers to the livetweet coverage, since the subsequent real-time updates are only posted on X. As a style guide, the sentence “Follow The LaSallian’s live coverage at [link].” is written at the bottom of the tweet.  Ensure that the copied link from X is clean, with the “[https://www](https://www).” and the final “/” trimmed from the link, and a period is written after the link since it is a complete sentence. The snaps below are examples of the main tweet posted on the TG and FB platforms.
+On other platforms, the link to the main tweet posted on X is included in the caption to redirect the viewers to the livetweet coverage, since the subsequent real-time updates are only posted on X. As a style guide, the sentence “Follow **The LaSallian**’s live coverage at [link].” is written at the bottom of the tweet.  Ensure that the copied link from X is clean, with the “[https://www](https://www).” and the final “/” trimmed from the link, and a period is written after the link since it is a complete sentence. The snaps below are examples of the main tweet posted on the TG and FB platforms.
 
 ![image](../../images/image62.png)  
 ![image](../../images/image63.png)

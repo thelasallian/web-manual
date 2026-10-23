@@ -10,9 +10,16 @@ Five months, or approximately two terms, after their entry, newbies are subjecte
 
 Probationary staffers are considered an extension of newbie status. They are required to pass the subsequent regularization cycle to secure full membership. Failure to do so will result in termination from the publication, unless an extension of the probationary period is granted at the discretion of the Section Editor.
 
-In terms of platform access, probationary staffers or newbies are limited to X and the official website. Beginning with TLS64 Term 3, additional access to Telegram may be granted after an appropriate period of service, subject to the decision of the Section Editor. The Editor, however, must ensure that staffers are properly oriented, trained, and capable of managing the responsibilities associated with expanded access.
+In terms of platform access, probationary staffers or newbies were historically limited to X and the official website. Beginning with TLS64 Term 3, additional access to Telegram could be granted after an appropriate period of service, subject to the decision of the Section Editor. In TLS66 Term 1, newbies were additionally granted access to Facebook and Meta Business Suite. The granting of expanded platform access to probationary staffers remains at the discretion of the Web Editor, who must ensure that staffers are properly oriented, trained, and capable of managing the responsibilities associated with each platform.
 
-Web staffers must fulfill the following duties and responsibilities:
+### 2.1.1. Role-Based Structure and Specializations
+
+In TLS65 Term 1, the publication transitioned towards a role-based recruitment and operational structure rather than a strictly section-based one—an initiative pushed by the Web section to better accommodate specialized disciplines within multi-faceted desks. Under this framework, the section formalized three distinct roles:
+1. **Social Media Manager (SMM)**: Focuses on copywriting, captions, real-time newsroom coverage, content scheduling, and audience engagement across platforms.
+2. **Web Developer**: Focuses on frontend/backend systems development, custom microsites and web specials, infrastructure maintenance, server administration, and automation tooling.
+3. **Web Designer (UI/UX Designer)**: Focuses on wireframing, high-fidelity UI design, user experience research, design system fidelity, and digital asset preparation for web specials and platforms. *(Note: While the role was formally introduced in TLS65, the section did not onboard its first passing Web Designers until TLS66 Term 1).*
+
+Web staffers in any role fulfill core general responsibilities:
 
 1) Monthly event art captions;  
 2) Print captions;  
@@ -23,15 +30,15 @@ Web staffers must fulfill the following duties and responsibilities:
 7) Social media management;  
 8) Website upload;
 
-Apart from these duties, WebDev staffers have the following additional tasks:
+Apart from these core duties, Web Developers and Web Designers handle technical and design deliverables:
 
 1) Website maintenance;  
 2) Special projects;  
 3) Systems development;  
-4) Web Specials  
-   
+4) Web Specials and microsites;  
+5) UI/UX prototyping and design systems.
 
-Web Developers also include both developers and designers. Since TLS Web’s WebDev projects are seasonal, they are still expected to do Web-aligned tasks (social media management and caption). Some duties can be omitted or skipped for some months as instructed by the Editor. They shall also be subjected to a monthly evaluation by the Editor.
+Because Web development and design projects can be seasonal or project-based, technical staffers are still expected to contribute to Web-aligned core tasks (such as social media management, coverage, and captioning). Specific routine duties may be waived or adjusted during intensive project sprints as instructed by the Editor, subject to regular evaluation.
 
 ## 2.2. Regular Staffers
 
@@ -81,6 +88,8 @@ A maximum of two assistant editors can be selected or appointed, depending on th
 
 The WE is entrusted with the leadership of the Web section and is responsible for determining the direction and priorities the section shall pursue, subject to the approval of the Editor in Chief. In this capacity, the WE serves as the principal representative of the section in the EB and acts as the primary decision-maker for all matters concerning Web operations.
 
+To support the Web Editor in managing and maintaining an increasingly customized and expansive headless infrastructure—even with minimal prior DevOps or programming background—the section introduced agentic AI workflow skills and automated operations harnesses. These tools provide guided, standardized execution for site administration, content migrations, server operations, and troubleshooting.
+
 The WE shall represent the section in EB functions, ensuring that the perspectives and needs of Web are communicated and considered in publication-wide deliberations. As the head of the section, the Web Editor is ultimately accountable for the performance, discipline, and output of Web staffers.
 
 Specifically, the Web Editor is responsible for the following:
@@ -103,10 +112,11 @@ Apart from these, the WE shall also hold ownership or administrative control ove
 
 1) Facebook  
 2) Instagram  
-3) Meta  
+3) Meta Business Suite  
 4) X  
 5) Telegram  
-6) Website  
-7) CPanel  
-8) Pingloi and other bots  
-9) [admin@thelasallian.com](mailto:admin@thelasallian.com) email and workspace
+6) Official Website & VPS Infrastructure  
+7) Domain Registrar & Cloudflare DNS  
+8) [admin@thelasallian.com](mailto:admin@thelasallian.com) Google Workspace superadmin (which directly confers administrative ownership of Authentik SSO, WordPress Admin, and WebDesk)  
+9) Vaultwarden Password Manager  
+10) Automation Bots (Pingloi, Bitray, etc.)

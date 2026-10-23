@@ -35,6 +35,10 @@ The Web Editor or Assistant Web Editors are responsible for updating the “Abou
 
 7. **Graduation.** All staffers and Editors-at-Large are removed from the page upon graduating.
 
-The page can be edited by clicking on the **Edit Page** link at the top toolbar when visiting [thelasallian.com/about-us](http://thelasallian.com/about-us). You need to be logged in to see this.
+### 3.5.1. Staffer Box Formatting & Synchronization
 
-![image](../../images/image47.png)
+To eliminate error-prone manual formatting and keep rosters consistent across print and digital, the Web section developed the **Staffer Box** web app ([stafferbox.thelasallian.com](https://stafferbox.thelasallian.com)). 
+
+It ingests the roster data from Google Sheets and generates standardized copy for the Layout section to drop directly into the print broadsheet issue, ensuring that section rosters, assistant titles, and Editorial Board designations remain consistent across both the broadsheet stafferbox and the website’s About Us page.
+
+On the website, following the TLS65 revamp, the About Us page is maintained directly as structured data (`about-page-data.ts`) rather than styled manually through WordPress page builders.

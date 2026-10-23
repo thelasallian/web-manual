@@ -6,13 +6,13 @@ The main purpose of social media posting is to promote **The LaSallian**’s art
 
 Social media posting is also applied in other contexts within the Web section; these will be discussed separately under the [*Coverages*](../coverages/) section of this manual.
 
-The LaSallian manages four primary platforms—Facebook, Instagram, X, and Telegram. The succeeding section specifies which members of the organization are authorized to handle these accounts, as well as the type of content designated for each platform.
+**The LaSallian** manages four primary platforms—Facebook, Instagram, X, and Telegram. The succeeding section specifies which members of the organization are authorized to handle these accounts, as well as the type of content designated for each platform.
 
 | Breakdown of social media platforms |  |  |  |  |
 | ----- | :---- | :---- | :---- | :---- |
 | Platform | **Facebook** | **Instagram** | **X** | **Telegram** |
-| **Account details**	 | The LaSallian | @thelasallian | @thelasallian | @thelasallian |
-| **Who has Access** | Execs  All Writing Editors Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers | Execs  Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers | Execs  All Writing Editors Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers All Web Newbies  | Execs  All Writing Editors Web Editor Asst. Web Editor Regular Web Staffers Selected Web Newbies |
+| **Account details**	 | **The LaSallian** | @thelasallian | @thelasallian | @thelasallian |
+| **Who has Access** | Execs  All Writing Editors Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers (and Web Newbies as of TLS66 T1, subject to WE discretion) | Execs  Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers (and Web Newbies via Meta Business Suite as of TLS66 T1, subject to WE discretion) | Execs  All Writing Editors Web Editor Asst. Web Editor Photo Editor Asst. Photo Editor Regular Web Staffers All Web Newbies  | Execs  All Writing Editors Web Editor Asst. Web Editor Regular Web Staffers Selected Web Newbies |
 | **Ideal caption length**  | Maximum of three paragraphs | Maximum of two paragraphs  | Maximum 280 characters. | Maximum of three paragraphs  |
 | **Edit option**  | ✓ - Caption 
 ✓-  Image  | ✓ - Caption 
@@ -69,7 +69,7 @@ The Facebook Sharing Debugger is a tool that allows users to check and update ho
 
 **Steps to use the tool:**
 
-1. Copy the article link – Select the URL of the article from The LaSallian’s website.  
+1. Copy the article link – Select the URL of the article from **The LaSallian**’s website.  
 2. Go to the [Debugger](https://developers.facebook.com/tools/debug/.)   
 3. Paste the link – Enter the article URL in the search box provided.  
 4. Click “Debug” – The tool will generate a preview of how the link will appear when shared on Facebook.  
@@ -90,7 +90,7 @@ To post using Business Suite:
 
 ## 4.3. Meta Business Suite
 
-Meta Business Suite is the main platform used to manage The LaSallian’s content for both Facebook and Instagram. It plays an important role in our workflow, as it is the only tool that allows scheduling of Instagram Stories and provides the post IDs needed for updating newsbites. The platform also offers a Planner tab, where all scheduled and published content can be viewed in one place, making it easier to monitor activity and ensure consistency across both channels.
+Meta Business Suite is the main platform used to manage **The LaSallian**’s content for both Facebook and Instagram. It plays an important role in our workflow, as it is the only tool that allows scheduling of Instagram Stories and provides the post IDs needed for updating newsbites. The platform also offers a Planner tab, where all scheduled and published content can be viewed in one place, making it easier to monitor activity and ensure consistency across both channels.
 
 To post for both Facebook and Instagram: 
 
@@ -103,9 +103,9 @@ To post for both Facebook and Instagram:
 
 ## 4.4. X, Formerly Twitter
 
-X is The LaSallian’s most followed platform, with around 216k followers. It serves as an avenue for article postings, live tweet updates, and news bites. This is the first social media access given to the Web newbies. 
+X is **The LaSallian**’s most followed platform, with around 216k followers. It serves as an avenue for article postings, live tweet updates, and news bites. This is the first social media access given to the Web newbies. 
 
-Tweets are also organized according to Kickers for easier categorization. Within The LaSallian, tweets generally fall under three types: online-only posting, regular posting, and coverage—the last of which will be discussed in more detail in the [Coverage](../coverages/) section of this manual.
+Tweets are also organized according to Kickers for easier categorization. Within **The LaSallian**, tweets generally fall under three types: online-only posting, regular posting, and coverage—the last of which will be discussed in more detail in the [Coverage](../coverages/) section of this manual.
 
 X has a lot of limitations, so keep a few things in mind when posting or scheduling. Always remember the 280-character limit and if uploading long videos, use mobile to bypass the video length resctriction. 
 
@@ -119,7 +119,7 @@ It is a tool provided by X Developers to help preview and verify that your web l
 
 How to use the tool:
 
-1. Copy the article link – Select the URL of the article from The LaSallian’s website.  
+1. Copy the article link – Select the URL of the article from **The LaSallian**’s website.  
 2. Go to the [X Card Validator](https://cards-dev.x.com/validator)   
 3. Run the URL through the validator  
 4. Click “Preview Card”  

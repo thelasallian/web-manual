@@ -6,7 +6,7 @@ title: "Newsroom"
 
 The newsroom is the Telegram group chat created to allow for a systematic processing of newsbites. Within this chat, there are six (6) topics: Read First, Univ, Sports, Menage, Vangie, and Pingloi Setup. 
 
-With The LaSallian being DLSU’s official student publication, delivering news as soon as possible is of utmost priority. For this reason, Web’s constant activity in the newsroom is crucial, as this helps the organization disseminate information immediately, especially those that are time-sensitive.
+With **The LaSallian** being DLSU’s official student publication, delivering news as soon as possible is of utmost priority. For this reason, Web’s constant activity in the newsroom is crucial, as this helps the organization disseminate information immediately, especially those that are time-sensitive.
 
 Although there are other news outlets people can rely on, DLSU often has different rules on matters like suspensions, so it is necessary for TLS to promptly disseminate these updates.
 
